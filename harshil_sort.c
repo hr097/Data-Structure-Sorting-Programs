@@ -45,7 +45,7 @@ e.g. in some cases data is in fix range ----> like students marks 0 to 100
 
 I HOPE THIS IS USEFULL
 
-~ by harshil ramani
+~ by harshil ramani & viraj tavaviya
 ----------------------------------------------------------------*/
 
 
@@ -73,7 +73,7 @@ void showArrayCount(int (*arr)[2],int size) // show simple 2-d array
     i++;
  }
 }
-
+  
 int checkDuplicate(int element,int (*arr)[2],int size) //return 0 if duplicate already exist else 1
 {
     int i=0,flag=1;
